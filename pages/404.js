@@ -14,6 +14,7 @@ const NotFound = () => {
     <div>
       <h3>Oops 404</h3>
       <p>I think you are on a not existing page</p>
+      <h3>Redirecting to Homepage...</h3>
     </div>
   );
 }
